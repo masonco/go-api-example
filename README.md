@@ -1,2 +1,2 @@
-# go-project
-Example project for including projects via GitHub in Go
+# go-workspace
+Example workspace for creating apis via GitHub for Go
